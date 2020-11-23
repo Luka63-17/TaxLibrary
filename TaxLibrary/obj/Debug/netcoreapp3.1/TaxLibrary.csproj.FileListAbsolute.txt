@@ -1,9 +1,0 @@
-C:\Users\Admin\Desktop\GitHub\Luka63-17\TaxLibrary\TaxLibrary\TaxLibrary\bin\Debug\netcoreapp3.1\TaxLibrary.deps.json
-C:\Users\Admin\Desktop\GitHub\Luka63-17\TaxLibrary\TaxLibrary\TaxLibrary\bin\Debug\netcoreapp3.1\TaxLibrary.dll
-C:\Users\Admin\Desktop\GitHub\Luka63-17\TaxLibrary\TaxLibrary\TaxLibrary\bin\Debug\netcoreapp3.1\TaxLibrary.pdb
-C:\Users\Admin\Desktop\GitHub\Luka63-17\TaxLibrary\TaxLibrary\TaxLibrary\obj\Debug\netcoreapp3.1\TaxLibrary.csprojAssemblyReference.cache
-C:\Users\Admin\Desktop\GitHub\Luka63-17\TaxLibrary\TaxLibrary\TaxLibrary\obj\Debug\netcoreapp3.1\TaxLibrary.AssemblyInfoInputs.cache
-C:\Users\Admin\Desktop\GitHub\Luka63-17\TaxLibrary\TaxLibrary\TaxLibrary\obj\Debug\netcoreapp3.1\TaxLibrary.AssemblyInfo.cs
-C:\Users\Admin\Desktop\GitHub\Luka63-17\TaxLibrary\TaxLibrary\TaxLibrary\obj\Debug\netcoreapp3.1\TaxLibrary.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\GitHub\Luka63-17\TaxLibrary\TaxLibrary\TaxLibrary\obj\Debug\netcoreapp3.1\TaxLibrary.dll
-C:\Users\Admin\Desktop\GitHub\Luka63-17\TaxLibrary\TaxLibrary\TaxLibrary\obj\Debug\netcoreapp3.1\TaxLibrary.pdb
